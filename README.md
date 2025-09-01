@@ -72,6 +72,8 @@ public class Calculator {
 
 }
 ```
+Tää on mitä se halusi kertoa tästä ohjelmasta. Lisäsin vähän avaavampaa selitystä vielä lisäksi itse, mutta aika 
+hyvin copilot osas kertoa mistä on kyse.:
 
 Class Calculator has methods to add numbers to a number array (for longer marthematical operations), perform calculations 
 based on an operator, get the result, and reset  the calculator for new calculations. The main method demonstrates how
