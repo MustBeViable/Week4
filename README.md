@@ -1,3 +1,7 @@
+This program is a simple text based calculator program using java as language and github copilot as main writer.
+Code is producted by using various methods i.e. describing the method in comment and let copilot to write it. 
+
+```java
 import java.util.ArrayList;
 
 public class Calculator {
@@ -67,3 +71,8 @@ public class Calculator {
     }
 
 }
+```
+
+Class Calculator has methods to add numbers to a number array (for longer marthematical operations), perform calculations 
+based on an operator, get the result, and reset  the calculator for new calculations. The main method demonstrates how
+to use the Calculator class.
