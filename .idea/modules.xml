@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ReworkedCalculator/ReworkedCalculator.iml" filepath="$PROJECT_DIR$/ReworkedCalculator/ReworkedCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week4.iml" filepath="$PROJECT_DIR$/Week4.iml" />
     </modules>
   </component>
